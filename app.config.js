@@ -1,0 +1,1 @@
+export default { expo: { name: "react-native-api-showcase", slug: "react-native-api-showcase", scheme: "react-native-api-showcase", sdkVersion: "51.0.0", extra: { apiBaseUrl: "http://localhost:8000" } } }
