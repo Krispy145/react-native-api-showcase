@@ -9,7 +9,7 @@ Expo + TS: auth + sample list from /phishing/samples; clean client patterns.
 - **Status:** scaffolded (Scaffolded)
 - **Focus:** Expo + TS: auth + sample list from /phishing/samples; clean client patterns.
 - **Last updated:** 13/10/2025
-- **Target completion:** 20/10/2025
+- **Target completion:** 27/10/2025
 
 ---
 
@@ -115,8 +115,8 @@ npm test
 
 | Milestone                    | Category              | Target Date | Status     |
 | ---------------------------- | --------------------- | ----------- | ---------- |
-| Scaffold repo | React Native | 11/10/2025 | ✅ Done |
-| Samples list (/phishing/samples) | React Native | 14/10/2025 | ⏳ In Progress |
+| Scaffold repo | React Native | 26/10/2025 | ✅ Done |
+| Samples list (/phishing/samples) | React Native | 26/10/2025 | ⏳ In Progress |
 | Patterns doc + cleanup | React Native | 20/10/2025 | ⏳ In Progress |
 
 
