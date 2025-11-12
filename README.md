@@ -8,7 +8,7 @@ Expo + TS: auth + sample list from /phishing/samples; clean client patterns.
 
 - **Status:** scaffolded (Scaffolded)
 - **Focus:** Expo + TS: auth + sample list from /phishing/samples; clean client patterns.
-- **Last updated:** 11/11/2025
+- **Last updated:** 12/11/2025
 - **Target completion:** 19/11/2025
 
 ---
